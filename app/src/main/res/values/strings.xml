@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikasi GitHub</string>
+    <string name="searchbar_hint">Search User</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="followertotal">Followers %d</string>
+    <string name="followingtotal">Following %d</string>
+    <string name="notification">User Not Found!!!</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="setting">Setting</string>
+    <string name="delete_favorite">Delete User Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
